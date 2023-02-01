@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React1-Emazon/static/css/main.64851ffc.css",
+    "main.js": "/React1-Emazon/static/js/main.33916eba.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React1-Emazon/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Logo.svg": "/React1-Emazon/static/media/Logo.311dd846bc480af4fcd81826b6b793a8.svg",
+    "index.html": "/React1-Emazon/index.html",
+    "main.64851ffc.css.map": "/React1-Emazon/static/css/main.64851ffc.css.map",
+    "main.33916eba.js.map": "/React1-Emazon/static/js/main.33916eba.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React1-Emazon/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64851ffc.css",
+    "static/js/main.33916eba.js"
+  ]
+}
