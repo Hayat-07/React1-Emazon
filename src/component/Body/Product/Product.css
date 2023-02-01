@@ -1,0 +1,49 @@
+.product{
+    text-align: center;
+    justify-content: center;
+    background: rgb(218, 249, 255);
+    width: 95%;
+    height: 300px;
+    margin-bottom: 5px;
+    padding: 5px;
+    border: none;
+    border-radius: 7px;
+   
+    
+    
+}
+.product:hover{
+   transition:.5s ;
+   scale: 105%;
+        box-shadow:-3px 3px 5px rgba(141, 195, 212, 0.637);
+        border: 1px solid rgba(0, 116, 136, 0.548);
+    
+
+}
+
+
+
+.img{
+    width: 60%;
+    height: 40%;
+    border-radius: 20%;
+    /* margin-top: 20%; */
+}
+
+.btn{
+    width: 70%;   
+    height: 30px;
+   
+    outline: none;
+    background-color: rgba(122, 190, 194, 0.658);
+    border: 0;   
+    color: rgb(115, 139, 131);
+    border-radius: 10px;
+}
+
+.btn:hover{
+    background: rgb(0, 84, 87);;
+    
+    cursor: pointer;
+    
+}

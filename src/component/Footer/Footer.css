@@ -1,0 +1,25 @@
+.footer{
+    height:300px;
+    width: 100%;
+    background: rgb(110, 143, 145);
+    margin-top: 0px;
+    
+    
+    text-align: center;  
+    color: rgb(180, 180, 180);
+    /* position: absolute;
+    z-index: 2; */
+    
+    
+}
+.footer:hover{
+
+
+    animation: ft;
+    animation-duration: 1.5s;
+    margin-top: -285px;
+    position: sticky;
+    z-index: 1;
+    background: linear-gradient(rgb(0, 91, 114), gray);
+
+}
